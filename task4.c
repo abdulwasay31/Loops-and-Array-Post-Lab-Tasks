@@ -1,6 +1,6 @@
 // Task-4 (26K-3076)
 #include <stdio.h>
-int main(void) {
+int main() {
  float price, total = 0.0f, discount = 0.0f, final_amount;
  int choice;
 
